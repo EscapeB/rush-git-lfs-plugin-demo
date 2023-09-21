@@ -1,0 +1,18 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  ../../apps/project-a:
+    specifiers:
+      library-a: workspace:*
+    dependencies:
+      library-a: link:../../libs/library-a
+
+  ../../apps/project-b:
+    specifiers: {}
+
+  ../../libs/library-a:
+    specifiers: {}

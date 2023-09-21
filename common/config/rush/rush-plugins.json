@@ -7,12 +7,12 @@
     {
       "packageName": "rush-git-lfs-plugin",
       "pluginName": "git-lfs-check",
-      "autoinstallerName": "plugins"
+      "autoinstallerName": "rush-plugins"
     },
     {
       "packageName": "rush-git-lfs-plugin",
       "pluginName": "git-lfs-pull",
-      "autoinstallerName": "plugins"
+      "autoinstallerName": "rush-plugins"
     }
     /**
      * Each item configures a plugin to be loaded by Rush.

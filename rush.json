@@ -428,6 +428,18 @@
     //   "projectFolder": "tools/my-toolchain",
     //   "reviewCategory": "tools",
     //   "tags": [ "tools" ]
-    // }
+    // },
+    {
+      "packageName": "project-a",
+      "projectFolder": "apps/project-a"
+    },
+    {
+      "packageName": "project-b",
+      "projectFolder": "apps/project-b"
+    },
+    {
+      "packageName": "library-a",
+      "projectFolder": "libs/library-a"
+    }
   ]
 }
